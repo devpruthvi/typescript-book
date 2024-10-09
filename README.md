@@ -1,5 +1,5 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGD_0i6L48hucTiiyhb5QzQ?style=social)](https://www.youtube.com/@basarat)
-
+update readme for build action
 TypeScript Deep Dive
 =======
 
